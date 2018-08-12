@@ -1,4 +1,4 @@
-# embedo [![npm](https://img.shields.io/npm/v/embedo.svg)](https://npmjs.org/package/embedo)
+# embedo [![npm](https://img.shields.io/npm/v/embedo.svg)](https://npmjs.org/package/embedo) [![Greenkeeper badge](https://badges.greenkeeper.io/shobhitsharma/embedo.svg)](https://greenkeeper.io/)
 
 <img src="https://cdn01.onzu.com/2017/3/5/14/embedo.png" height="200" align="right">
 
