@@ -838,7 +838,7 @@
       var fb_html = Embedo.utils.generateElement(
         'div',
         Embedo.utils.merge({
-            class: fb_html_class,
+            'class': fb_html_class,
             'data-href': url,
             'data-width': options['data-width'] || options.maxwidth || options.width || 350
           },
